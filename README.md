@@ -1,9 +1,7 @@
 # Factory4Sales
-Inventor UI Configuration - Factory for Sales
+Inventor User Interface Configuration Sample - Factory for Sales
+This Inventor/Factory Design Utility addin simplifies the user interface targeting easy Factory Layouting. General Inventor commands are hidden.
 
+The sources are not provided with this repository; an installable sample addin with documentation is available in the release section: https://github.com/ADSK-Lutz/Factory4Sales/releases/latest
 
-Requirements
-Inventor 2022/23 EN or Inventor 2022/23 EN with any language pack
-Factory Design Utilities EN and/or appropriate language pack
-Inventor 2022/23 mit FDU both DE without language pack
 
